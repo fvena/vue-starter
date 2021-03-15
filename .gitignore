@@ -1,0 +1,10 @@
+# OS Files
+.DS_Store
+
+# Dependencies
+node_modules
+
+# Dev/Build Artifacts
+dist
+coverage
+docs/.vuepress/dist
